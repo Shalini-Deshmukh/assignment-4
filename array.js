@@ -1,6 +1,3 @@
-//find the minimum number in array
-
-
 // 1. Minimum num in array
 let arr = [55, 23, 98, 95, 21, 65, 20, 24]
 
